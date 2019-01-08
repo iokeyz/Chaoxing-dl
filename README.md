@@ -1,3 +1,4 @@
+# 超星改版，已无法使用！！！
 # Chaoxing-dl
 超星学术视频Downloader
 ==========
